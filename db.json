@@ -1,0 +1,76 @@
+{
+  "vehicles": [
+    {
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla ",
+      "price": 100000,
+      "mileage": 150000,
+      "color": "Blue",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "With newly added features",
+      "id": "1"
+    },
+    {
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "Grey Ash",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "White",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car"
+    },
+    {
+      "image": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "Red",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car",
+      "id": "4"
+    },
+    {
+      "image": "https://images.pexels.com/photos/712618/pexels-photo-712618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "Greenish Blue",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car",
+      "id": "5"
+    },
+    {
+      "image": "https://images.pexels.com/photos/39855/lamborghini-brno-racing-car-automobiles-39855.jpeg?auto=compress&cs=tinysrgb&w=600\" height=\"700\" class=\"d-block w-100\" alt=\"...\"",
+      "name": "Newly Added Car",
+      "price": 147000,
+      "mileage": 15499,
+      "color": "Yellow",
+      "seats": 5,
+      "fuel": "Disel",
+      "gear": "Automatic",
+      "description": "With newly added features",
+      "id": "c3ba"
+    }
+  ]
+}
